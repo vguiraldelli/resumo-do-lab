@@ -7,3 +7,7 @@ Foi explicado sobre os tipos de Cloud, privada, híbrida ou pública, onde as em
 Em seguida, foi apresentado o Portal Azure, onde as ferramentas são organizadas em Categorias desde IA, Infraestrutura, etc...
 
 O desafio da aula "Criando máquinas Virtuais na Azure" não esta claro, em uma aula anterior já foi feito o mesmo, mas estava explícito o que se esperava do desafio.
+
+## Configurando uma instância de Banco de Dados na Azure
+É preciso definir um servidor para a instância do Banco de Dados, isso possibilita escolher a melhor localidade para a disponibilidade da base de dados.
+Se atentar para as configurações de Acessos e SLA.
