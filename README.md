@@ -11,3 +11,9 @@ O desafio da aula "Criando máquinas Virtuais na Azure" não esta claro, em uma 
 ## Configurando uma instância de Banco de Dados na Azure
 É preciso definir um servidor para a instância do Banco de Dados, isso possibilita escolher a melhor localidade para a disponibilidade da base de dados.
 Se atentar para as configurações de Acessos e SLA.
+
+## Computação e rede - Laboratório
+Nesta aula foi apresentado como é criada uma máquina virtual (servidor ou máquina de trabalho) na núvem da Azure.
+Atualmente a Microsoft já oferece padrões recomendados de máquina com configrações pré-definidas, o que pode agilizar a criação da máquina virtual.
+É importante entender as diferentes necessidades de acordo com cada tipo de ambiente, como desenvolvimento, teste e produção, entre outras possibilidades.
+Foi apresentada toda a trilha de criação de uma máquina virtual através dpo Portal Azure.
