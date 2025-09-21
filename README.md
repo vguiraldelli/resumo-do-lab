@@ -17,3 +17,27 @@ Nesta aula foi apresentado como é criada uma máquina virtual (servidor ou máq
 Atualmente a Microsoft já oferece padrões recomendados de máquina com configrações pré-definidas, o que pode agilizar a criação da máquina virtual.
 É importante entender as diferentes necessidades de acordo com cada tipo de ambiente, como desenvolvimento, teste e produção, entre outras possibilidades.
 Foi apresentada toda a trilha de criação de uma máquina virtual através dpo Portal Azure.
+
+## Aula: Dominando o armazenamento do Azure
+### Conta de Armazenamento
+- Uma conta de armazenamento recebe dados de diversos tipos
+- O nome da conta deve ser exclusivo globalmente e conter de 3 a 24 caracteres.
+
+### Compartilhamento de arquivos
+- Uma unidade de arquivos pode ser utilizada conectando-se a ela através de conexão SMB na porta 445.
+
+### Migrações para Azure
+Podemos migrar diferentes tipos de itens pra a Azure, sendo eles:
+- Servidores, bancos de dados e aplicativos web.
+- Banco de dados (somente)
+- Aplicativos Web
+- Data Box
+
+No Data Box, temos algumas opções para solicitação:
+- Data Box Disk: 35 TB
+- Data Box: 80 TB
+- Data Box Heavy: 800 TB
+
+Ferramentas para migração:
+- AzCopy: Uma ferramenta para copiar dados para nuvem de uma forma parecida com FTP. Funciona em Windows, Linux e MacOS.
+- Gerenciador de Armazenamento do Microsoft Azure: Uma interface para acessar o conteúdo de contas de armazenamento e utilizar o AzCopy através da interface.
