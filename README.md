@@ -1,7 +1,7 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-# Resumo:
+## Resumo:
 Até o momento foram apresentados apenas conceitos introdutórios sobre a Cloud da Azure voltada para IA.
 Foi explicado sobre os tipos de Cloud, privada, híbrida ou pública, onde as empresas podem optar na utilização de nuvem privada, mantendo os dados isolados em ambientes On-Premises, híbrida, conectado os ambientes On-Premises a recursos de Cloud pública, ou simplesmente utilizar a Cloud pública se beneficiando em não precisar se preocupar com os gastos e energia de trabalho direcionadas para manter ambientes físicos e garantir a segurança dos dados, em vista que tudo isso já é oferecido na Cloud pública.
 Em seguida, foi apresentado o Portal Azure, onde as ferramentas são organizadas em Categorias desde IA, Infraestrutura, etc...
@@ -41,3 +41,15 @@ No Data Box, temos algumas opções para solicitação:
 Ferramentas para migração:
 - AzCopy: Uma ferramenta para copiar dados para nuvem de uma forma parecida com FTP. Funciona em Windows, Linux e MacOS.
 - Gerenciador de Armazenamento do Microsoft Azure: Uma interface para acessar o conteúdo de contas de armazenamento e utilizar o AzCopy através da interface.
+
+## Aula: Segurança e identidade no Azure
+
+### Identidade:
+- Microsoft Entra ID: Gerenciamento de usuários e acessos, com possibilidade de replicação dos usuários originados no AD Local para a Nuvem.
+- Usuários deletados são removidos permanentemente depois de 30 dias.
+- É possível fazer invites em lote via CSV.
+
+### Defender for Cloud:
+- É uma aplicação Cloud Native para gerenciar a segurança e integridade de ambientes.
+- Compatível com Azure, AWS e GCP.
+- Possui módulos de proteção para DevOps.
