@@ -53,3 +53,13 @@ Ferramentas para migração:
 - É uma aplicação Cloud Native para gerenciar a segurança e integridade de ambientes.
 - Compatível com Azure, AWS e GCP.
 - Possui módulos de proteção para DevOps.
+
+## Aula: Gerenciamento de Custos no Azure
+
+### Calculadora do TCO (Custo Total de Propriedade):
+- Link: (Calculadora TCO não encontrada)
+- A calculadora do TCO serve para analisar e comparar o gasto com infraestrutura local em relação a Azure.
+
+### Calculadora de Recursos
+- Link: https://azure.microsoft.com/pt-br/pricing/calculator/ 
+- Serve para calcular os custos estimados por hora ou mensais para usar o Azure.
