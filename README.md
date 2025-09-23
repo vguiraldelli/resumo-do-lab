@@ -69,5 +69,5 @@ Ferramentas para migração:
 ### Governança e Conformidade:
 - Azure Policys ajudam a impor padrões organizacionais e garantir a conformidade.
 - Bloqueios de recursos são herdados por seus recursos filhos. Os dois tipos de bloqueio são: Excluir e ReadOnly.
-- [Portal de confiança do Serviço:](https://servicetrust.microsoft.com) Serve para verificar quais protocolos, regras e padrões a Microsoft aplica.
+- [Portal de confiança do Serviço:](https://servicetrust.microsoft.com "https://servicetrust.microsoft.com") Serve para verificar quais protocolos, regras e padrões a Microsoft aplica.
 - Microsoft Pureview: Uma ferramenta para governança para gerenciar os riscos e conformidade de dados tanto locais, multinuvem e SaS.
