@@ -71,3 +71,11 @@ Ferramentas para migração:
 - Bloqueios de recursos são herdados por seus recursos filhos. Os dois tipos de bloqueio são: Excluir e ReadOnly.
 - [Portal de confiança do Serviço:](https://servicetrust.microsoft.com "https://servicetrust.microsoft.com") Serve para verificar quais protocolos, regras e padrões a Microsoft aplica.
 - Microsoft Pureview: Uma ferramenta para governança para gerenciar os riscos e conformidade de dados tanto locais, multinuvem e SaS.
+
+## Aula: Ferramentas de Gerenciamento e Implantação na Azure
+
+### Ferramentas:
+- A implantação de recursos na Azure pode ser feita inteiramente via Portal Azure, mas em algum momento surge a necessidade de implementar uma arquitetura em escala, onde se torna inviável a implantação via Portal.
+A Azure fornece modelos de Scripts de implementação no Portal, podendo ser alterados e reutilizados em escala.
+- ARM: É uma camada responsável por gerenciar as solicitações de implementação de recursos na Azure. É quem recebe e interpreta as solicitações.
+- ARC: É uma ferramenta de gerenciamento Multi-Cloud
