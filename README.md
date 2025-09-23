@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Microsoft AZ900 - DIO
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 ## Resumo:
@@ -63,3 +63,11 @@ Ferramentas para migração:
 ### Calculadora de Recursos
 - Link: https://azure.microsoft.com/pt-br/pricing/calculator/ 
 - Serve para calcular os custos estimados por hora ou mensais para usar o Azure.
+
+## Aula: Gerenciando Políticas em Acessos Azure
+
+### Governança e Conformidade:
+- Azure Policys ajudam a impor padrões organizacionais e garantir a conformidade.
+- Bloqueios de recursos são herdados por seus recursos filhos. Os dois tipos de bloqueio são: Excluir e ReadOnly.
+- Portal de confiança do Serviço (https://servicetrust.microsoft.com): Serve para verificar quais protocolos, regras e padrões a Microsoft aplica.
+- Microsoft Pureview: Uma ferramenta para governança para gerenciar os riscos e conformidade de dados tanto locais, multinuvem e SaS.
