@@ -79,3 +79,15 @@ Ferramentas para migração:
 A Azure fornece modelos de Scripts de implementação no Portal, podendo ser alterados e reutilizados em escala.
 - ARM: É uma camada responsável por gerenciar as solicitações de implementação de recursos na Azure. É quem recebe e interpreta as solicitações.
 - ARC: É uma ferramenta de gerenciamento Multi-Cloud
+
+## Aula: Ferramentas de Monitoramento do Azure
+
+### Assistente do Azure:
+- O Assistente do Azure analisa os recursos e faz recomendações de otimização.
+- Atua através dos tópicos: Confiabilidade, Segurança, Desempenho, Custo e Excelência Operacional.
+
+### Integridade do Serviço do Azure
+- É um grupo de serviços que informa sobre a integridade geral do Azure, como problemas temporários que podem afetar o uso dos recursos tanto em cenários específicos ou globalmente.
+
+### Azure Monitor
+- É um serviço que monitora e entrega um OverView da disponibilidade e desempenho de aplicativos e serviços na Azure tanto em ambientes nuvem como local.
